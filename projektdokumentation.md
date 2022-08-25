@@ -36,7 +36,8 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 |  3   | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Die gesuchte Zahl ist kleiner                  |
 |  4   | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben es mir 2 Versuchen geschafft die Zahl heraus zu finden                  |
 |  5   | Projekt gestartet, Zahl generiert             | Falsche eingabe        | Sie können nur Zahlen zwischen 1 und 100 verwenden                  |
-|  6   | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   |
+|  6   | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   
+| 6.1  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben die Zahl erraten, sie sind platz 2 mit 3 Versuchen!                  |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
