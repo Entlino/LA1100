@@ -48,8 +48,19 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |  1.9  |    Ich    | Computer generiert Zahl             |     45min     |
+| 2.A  |  1.9  |    Ich    | Benutzer kann raten             |     45min     |
+| 3.A  |  1.9  |    Ich    | Hinweis grösser             |     45min     |
+| 4.A  |  1.9  |    Ich    | Hinweis kleiner             |     45min     |
+| 5.A  |  8.9  |    Ich    | Richtige Zahl erraten             |     45min     |
+| 6.A  |  8.9  |    Ich    | Ratversuche             |     45min     |
+| 7.A  |  8.9  |    Ich    | Fehleingaben             |     45min     |
+| 8.A  |  8.9  |    Ich    | Schöner Gestalten 1            |     45min     |
+| 9.A  |  15.9 |    Ich    | Schöner Gestalten 2             |     45min     |
+| 10.A |  15.9 |    Ich    | Besten liste             |     45min     |
+| 11.A |  15.9 |    Ich    | Mehrere Level              |     45min     |
+| 12.A |  15.9 |    Ich    |               |     45min     |
+
 
 Total: 
 
