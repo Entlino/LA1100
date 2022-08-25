@@ -40,8 +40,7 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 
 ### 1.4 Diagramme
 
-![image](https://user-images.githubusercontent.com/111046353/186625250-ba232a6c-5257-4d58-aa6c-defaca1221d8.png)
-
+![image](https://user-images.githubusercontent.com/111046353/186625517-648ab028-12bc-44f8-98e7-bbf1b738b005.png)
 
 
 ## 2 Planen
