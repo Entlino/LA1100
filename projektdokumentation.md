@@ -1,7 +1,5 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
 Aeschlimann Christian
 
 | Datum | Version | Zusammenfassung                                              |
@@ -39,7 +37,6 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 |  6   | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   
 | 6.1  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben die Zahl erraten, sie sind platz 2 mit 3 Versuchen!                  |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
