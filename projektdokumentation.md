@@ -58,7 +58,7 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 | 9.A  |  15.9 |    Ich    | Schöner Gestalten 2             |     45min     |
 | 10.A |  15.9 |    Ich    | Besten liste             |     45min     |
 | 11.A |  15.9 |    Ich    | Mehrere Level              |     45min     |
-| 12.A |  15.9 |    Ich    |               |     45min     |
+| 12.A |  15.9 |    Ich    | Mehrere Level|     45min     |
 
 
 Total: 
@@ -75,8 +75,13 @@ Ich habe mich dazu entschieden meherere Level zu machen und das ganze so schön 
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |  1.9  |    Ich    |    45 min     |      30 min       |
+| 2.A  |  1.9  |    Ich    |    45 min     |      10 min       |
+| 3.A  |  1.9  |    Ich    |    45 min     |      10 min       |
+| 4.A  |  1.9  |    Ich    |    45 min     |      10 min       |
+| 5.A  |  1.9  |    Ich    |    45 min     |      10 min       |
+| 6.A  |  1.9  |    Ich    |    45 min     |      15 min       |
+| 7.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
