@@ -82,6 +82,7 @@ Ich habe mich dazu entschieden meherere Level zu machen und das ganze so schön 
 | 5.A  |  1.9  |    Ich    |    45 min     |      10 min       |
 | 6.A  |  1.9  |    Ich    |    45 min     |      15 min       |
 | 7.A  |  1.9  |    Ich    |    45 min     |      30 min       |
+| 8.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
