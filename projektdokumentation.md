@@ -6,7 +6,7 @@ Aeschlimann Christian
 | ----- | ------- | ------------------------------------------------------------ |
 | 25.08 | 0.0.1   | Heute habe ich die Grundlagen der Projektdokumentiation gelernt. |
 | 01.09 | 0.0.2   | Grundfunktionen des Programms fertig, (generieren, raten, versuche, neustart) |
-|       | 1.0.0   |                                                              |
+| 08.09 | 0.0.3   | Angefangen mehere Level zu machen, zudem habe ich das programm auf fehler untersucht |
 
 ## 1 Informieren
 
@@ -84,9 +84,9 @@ Ich möchte ein Visuelles Menu gestalten über welches man per Maustaste etwas a
 | 6.A  |  1.9  |    Ich    |    45 min     |      15 min       |
 | 7.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 | 8.A  |  1.9  |    Ich    |    45 min     |      30 min       |
-| 9.A  |  1.9  |    Ich    |    45 min     |     150 min       |
-| 10.A |  1.9  |    Ich    |    45 min     |      // min       |
-| 11.A |  1.9  |    Ich    |    45 min     |      // min       |
+| 9.A  |  8.9  |    Ich    |    45 min     |     120 min       |
+| 10.A |   .9  |    Ich    |    45 min     |      // min       |
+| 11.A |  8.9  |    Ich    |    45 min     |      30 min       |
 | 12.A |  1.9  |    Ich    |    45 min     |      // min       |
 
 
