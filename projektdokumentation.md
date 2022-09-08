@@ -5,7 +5,7 @@ Aeschlimann Christian
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 25.08 | 0.0.1   | Heute habe ich die Grundlagen der Projektdokumentiation gelernt. |
-|       | ...     |                                                              |
+| 01.09 | 0.0.2   | Grundfunktionen des Programms fertig, (generieren, raten, versuche, neustart) |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -18,12 +18,12 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                        |
 | ---- | --------------- | ---- | ----------------------------------  |
-| US. 1| Muss            | FA   | Als ein Spieler möchte ich dass der Computer eine Zahl generiert damit das Spiel gespielt werden kann.|
-| US. 2| Muss            | FA   | Als ein Spieler möchte ich dass ich die Zahl erraten kann damit ich auch gewinnen kann.|
-| US. 3| Muss            | FA   | Als ein Entlwickler möchte ich dass die Spieler hinweise zur richtigen Zahl bekommen damit es für sie möglich ist mit möglichst wenigsten Versuchen zu gewinnen.|
-| US. 4| Kann            | NFA  | Als ein Spieler möchte ich dass wenn ich die Zahl erraten habe das mir die Anzahl versuche angezeigt werden damit ich mich verbessern kann.|
-| US. 5| Kann            | Quali| Als ein Spieler möchte ich dass das System falscheingaben erkennt damit es zu keinen Fehlern führen kann.|
-| US. 6| Kann            | Rand | Als ein Spieler möchte ich dass es noch zusätzliche Funktionen gibt damit es nicht langweilig wird.|
+| US. 1| Muss            | FA   | Als ein Spieler möchte ich, dass der Computer eine Zahl generiert damit das Spiel gespielt werden kann.|
+| US. 2| Muss            | FA   | Als ein Spieler möchte ich, dass ich die Zahl erraten kann damit ich auch gewinnen kann.|
+| US. 3| Muss            | FA   | Als ein Spieler möchte ich, dass die Spieler hinweise zur richtigen Zahl bekommen damit es für sie möglich ist mit möglichst wenigsten Versuchen zu gewinnen.|
+| US. 4| Kann            | NFA  | Als ein Spieler möchte ich, dass wenn ich die Zahl erraten habe das mir die Anzahl versuche angezeigt werden damit ich mich verbessern kann.|
+| US. 5| Kann            | Quali| Als ein Spieler möchte ich, dass das System falscheingaben erkennt damit es zu keinen Fehlern führen kann.|
+| US. 6| Kann            | Rand | Als ein Spieler möchte ich, dass es noch zusätzliche Funktionen gibt damit es nicht langweilig wird.|
 
 ### 1.3 Testfälle
 
@@ -70,6 +70,7 @@ Total:
 ## 3 Entscheiden
 
 Ich habe mich dazu entschieden meherere Level zu machen und das ganze so schön wie möglich zu gestalten.
+Ich möchte ein Visuelles Menu gestalten über welches man per Maustaste etwas auswählen bzw. starten
 
 ## 4 Realisieren
 
@@ -83,6 +84,11 @@ Ich habe mich dazu entschieden meherere Level zu machen und das ganze so schön 
 | 6.A  |  1.9  |    Ich    |    45 min     |      15 min       |
 | 7.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 | 8.A  |  1.9  |    Ich    |    45 min     |      30 min       |
+| 9.A  |  1.9  |    Ich    |    45 min     |     150 min       |
+| 10.A |  1.9  |    Ich    |    45 min     |      // min       |
+| 11.A |  1.9  |    Ich    |    45 min     |      // min       |
+| 12.A |  1.9  |    Ich    |    45 min     |      // min       |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
