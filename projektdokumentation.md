@@ -33,7 +33,7 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 |  2   | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Diese Zahl ist leider falsch                   |
 |  3   | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Die gesuchte Zahl ist kleiner                  |
 |  4   | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben es mir 2 Versuchen geschafft die Zahl heraus zu finden                  |
-|  5   | Projekt gestartet, Zahl generiert             | Falsche eingabe        | Sie können nur Zahlen zwischen 1 und 100 verwenden                  |
+|  5   | Projekt gestartet, Zahl generiert breakpoint setzten            | falscheingabe eingeben | Das Programm erkennt die falsch ausgabe und gibt "Ungültige Eingabe " aus                  |
 |  6   | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   
 | 6.1  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben die Zahl erraten, sie sind platz 2 mit 3 Versuchen!                  |
 
@@ -56,9 +56,8 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 | 7.A  |  8.9  |    Ich    | Fehleingaben             |     45min     |
 | 8.A  |  8.9  |    Ich    | Schöner Gestalten 1            |     45min     |
 | 9.A  |  15.9 |    Ich    | Schöner Gestalten 2             |     45min     |
-| 10.A |  15.9 |    Ich    | Besten liste             |     45min     |
-| 11.A |  15.9 |    Ich    | Mehrere Level              |     45min     |
-| 12.A |  15.9 |    Ich    | Mehrere Level|     45min     |
+| 10.A |  15.9 |    Ich    | Mehrere Level              |     45min     |
+| 11.A |  15.9 |    Ich    | Mehrere Level|     45min     |
 
 
 Total: 
@@ -85,9 +84,8 @@ Ich möchte ein Visuelles Menu gestalten über welches man per Maustaste etwas a
 | 7.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 | 8.A  |  1.9  |    Ich    |    45 min     |      30 min       |
 | 9.A  |  8.9  |    Ich    |    45 min     |     120 min       |
-| 10.A |   .9  |    Ich    |    45 min     |      // min       |
-| 11.A |  8.9  |    Ich    |    45 min     |      30 min       |
-| 12.A |  1.9  |    Ich    |    45 min     |      // min       |
+| 10.A |  8.9  |    Ich    |    45 min     |      30 min       |
+| 11.A |  1.9  |    Ich    |    45 min     |     220 min       |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
