@@ -29,14 +29,14 @@ Der Spieler muss die von der Console vorgegebene Zahl erraten.
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|  1   | Projekt gestartet  | Spiel starten        | Zahl wird generiert                  |
-|  2   | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Diese Zahl ist leider falsch                   |
-|  3   | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Die gesuchte Zahl ist kleiner                  |
-|  4   | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben es mir 2 Versuchen geschafft die Zahl heraus zu finden                  |
-|  5   | Projekt gestartet, Zahl generiert breakpoint setzten            | falscheingabe eingeben | Das Programm erkennt die falsch ausgabe und gibt "Ungültige Eingabe " aus                  |
-|  6   | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   
-| 6.1  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben die Zahl erraten, sie sind platz 2 mit 3 Versuchen!                  |
-
+| 1.1  | Projekt gestartet  | Spiel starten        | Zahl wird generiert                  |
+| 2.1  | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Diese Zahl ist leider falsch                   |
+| 3.1  | Projekt gestartet, Zahl generiert             | Zahl eingabe (raten)        | Die gesuchte Zahl ist kleiner                  |
+| 4.1  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben es mir 2 Versuchen geschafft die Zahl heraus zu finden                  |
+| 5.1  | Projekt gestartet, Zahl generiert breakpoint setzten            | falscheingabe eingeben | Das Programm erkennt die falsch ausgabe und gibt "Ungültige Eingabe " aus                  |
+| 6.1  | Projekt gestartet, Zahl generiert             | neunzig        | Die Zahl ist kleiner als 90                   
+| 6.2  | Projekt gestartet, Zahl generiert             | Eingabe der richtigen Zahl        | Glückwunsch! sie haben die Zahl erraten, sie sind platz 2 mit 3 Versuchen!                  |
+| 6.3  | Projekt gestartet, Zahl generiert, abfrage ob schwer oder einfach            | schwer        | Sie spielen das Spiel nun auf schwer
 
 ### 1.4 Diagramme
 
@@ -96,8 +96,16 @@ Ich möchte ein Visuelles Menu gestalten über welches man per Maustaste etwas a
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 22.09 | Funktioniert | Christian Aeschlimann |
+| 2.1  | 22.09 | Funktioniert | Christian Aeschlimann |
+| 3.1  | 22.09 | Funktioniert | Christian Aeschlimann |
+| 4.1  | 22.09 | Funktioniert | Christian Aeschlimann |
+| 5.1  | 22.09 | Funktioniert | Christian Aeschlimann |
+| 6.1  | 22.09 | Funktioniert leider nicht | Christian Aeschlimann |
+| 6.2  | 22.09 | Funktioniert leider nicht | Christian Aeschlimann |
+| 6.3  | 22.09 | Funktioniert | Christian Aeschlimann |
+
+Zwei meiner Testfäle funktionieren leider nicht, was aber nicht weiter schlimm ist denn das Spiel kann trotzdem gespielt werden.
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
