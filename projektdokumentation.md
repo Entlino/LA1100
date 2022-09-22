@@ -120,4 +120,4 @@ Zwei meiner Testfäle funktionieren leider nicht, was aber nicht weiter schlimm 
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lern-Bericht](https://github.com/Entlino/LA1100/blob/main/lernbericht.md)
